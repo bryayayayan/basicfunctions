@@ -34,7 +34,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:padding="12dp"
-                android:background="@android:color/holo_blue_light"/>
+                android:background="@color/blue2"/>
 
             <EditText
                 android:hint="Email"
@@ -42,7 +42,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="12dp"
                 android:padding="12dp"
-                android:background="@android:color/holo_blue_light"/>
+                android:background="@color/blue2"/>
 
             <EditText
                 android:hint="Password"
@@ -51,7 +51,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="12dp"
                 android:padding="12dp"
-                android:background="@android:color/holo_blue_light"/>
+                android:background="@color/blue2"/>
 
             <EditText
                 android:hint="Confirm Password"
@@ -60,7 +60,7 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="12dp"
                 android:padding="12dp"
-                android:background="@android:color/holo_blue_light"/>
+                android:background="@color/blue2"/>
 
             <Button
                 android:id="@+id/btnCreate"
